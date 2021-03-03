@@ -1,0 +1,2 @@
+# spamz
+spam virus unlimited
